@@ -1,2 +1,3 @@
 module SampleProject {
+	hello world
 }
